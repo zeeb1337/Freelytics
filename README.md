@@ -1,4 +1,4 @@
-# Visualytics
+# Open Visual Analytics (OVA)
 An open-source visual analytics software alternative.
 
 
