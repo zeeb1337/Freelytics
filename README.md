@@ -1,4 +1,4 @@
-# Open Visual Analytics (OVA)
+# Freelytics
 An open-source visual analytics software alternative.
 
 
