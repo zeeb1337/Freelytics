@@ -1,4 +1,4 @@
-# OpenVA
+# Visualytics
 An open-source visual analytics software alternative.
 
 
